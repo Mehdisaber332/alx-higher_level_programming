@@ -1,6 +1,6 @@
 ## Project Title: 0x0E. SQL - More queries
 
-### Table of Contents
+## Table of Contents
 Project Description
 Learning Objectives
 Resources
