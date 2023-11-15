@@ -1,6 +1,6 @@
 ## Project Title: 0x0E. SQL - More queries
 
-#Table of Contents
+### Table of Contents
 Project Description
 Learning Objectives
 Resources
@@ -9,10 +9,10 @@ Installation
 Usage
 How to Import a SQL Dump
 
-#Project Description
+### Project Description
 This project focuses on advanced SQL queries, covering topics such as user management, privileges, constraints, and various SQL techniques. The goal is to enhance your skills in database management using MySQL.
 
-#Learning Objectives
+### Learning Objectives
 By the end of this project, you should be able to:
 Create a new MySQL user
 Manage privileges for a user on a database or table
@@ -22,7 +22,7 @@ Retrieve data from multiple tables in a single request
 Implement subqueries
 Utilize JOIN and UNION operations
 
-#Resources
+### Resources
 Read or watch the following resources to gain a deeper understanding:
 
 How To Create a New User and Grant Permissions in MySQL
@@ -39,12 +39,12 @@ MySQL Tutorial
 SQL Style Guide
 MySQL 8.0 SQL Statement Syntax
 
-#Extra resources around relational database model design:
+### Extra resources around relational database model design:
 Design
 Normalization
 ER Modeling
 
-#Requirements
+### Requirements
 Allowed editors: vi, vim, emacs
 All your files will be executed on Ubuntu 20.04 LTS using MySQL 8.0 (version 8.0.25)
 All your files should end with a new line
