@@ -27,4 +27,3 @@ if __name__ == "__main__":
         print('Nothing')
     else:
         print('{0}: {1}'.format(instance.id, instance.name))
-
